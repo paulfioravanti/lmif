@@ -1,0 +1,5 @@
+MOV $1, %AX
+MOV %AX, %BX
+MOV %AX, (%AX)
+MOV %AX, ($2)
+HALT

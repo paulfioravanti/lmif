@@ -1,0 +1,25 @@
+MOV $5 , %AX
+MOV $10 , %BX
+MOV %AX ,  %CX
+MOV %BX , %DX
+MOV %DX, %AX
+ADD $1, %AX
+ADD %BX, %CX
+SUB $5, %BX
+SUB %DX, %AX
+INC %AX
+INC %BX
+INC %CX
+INC %DX
+DEC %AX
+DEC %BX
+DEC %CX
+DEC %DX
+CMP %AX, %BX
+CMP %CX, $50
+CMP $2 , %DX
+JMP $5
+#
+NOP
+HALT
+NOP

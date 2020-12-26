@@ -1,0 +1,7 @@
+NOP
+INC %AX
+INC %BX
+INC %CX
+INC %DX
+JMP $0
+HALT

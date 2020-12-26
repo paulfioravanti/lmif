@@ -1,0 +1,14 @@
+MOV $5 , %AX
+MOV $10 , %BX
+MOV $10, %CX
+MOV $20, %DX
+CMP %AX, %BX
+CMP %BX, %CX
+CMP %DX, %AX
+CMP $2, %AX
+CMP $5, %AX
+CMP $10, %AX
+CMP %AX, $10
+CMP %AX, $5
+CMP %AX , $2
+HALT
