@@ -2,8 +2,9 @@
 
 This is a historical repository for code I wrote when I was a student at
 [University of South Australia][], studying for a Master of Information
-Technology, which had the program code of LMIF (hence the repository name). It
-was a 1.5-to-2-year long post-graduate coursework-based programme created for
+Technology, which had the program code of LMIF (hence the repository name).
+
+It was a 1.5-to-2-year long post-graduate coursework-based programme created for
 graduates from other disciplines to learn about information technology and
 software. The LMIF program does not seem to be available any more at the
 university, but I promise it did actually exist.
@@ -15,12 +16,19 @@ journey has its beginning, and that we never start writing "good" code.
 
 From a personal perspective, creating this repository is the code-equivalent of
 looking through old photo albums, so I have found it fun to re-visit the code,
-and the memories associated to that time of my life.
+and the good memories associated to that period of my life.
 
 Having said that, though, a lot of the code here makes present me reel back in
 horror and wonder how it even works. It certainly makes me respect my professors
 even more given that they graded whole classes worth of code that looks like
 this.
+
+## Blog Post
+
+This is a companion repository to my blog post
+_[Your Code: Episode I - The Phantom Repository][]_, which is an appeal to add
+your beginner's code to your public-facing developer story. Please reach out
+if you end up doing so!
 
 ## Language Versions
 
@@ -183,3 +191,4 @@ files still work, and hence I have omitted them from this repository.
 [UML]: https://en.wikipedia.org/wiki/Unified_Modeling_Language
 [University of South Australia]: https://www.unisa.edu.au/
 [WAN]: https://en.wikipedia.org/wiki/Wide_area_network
+[Your Code: Episode I - The Phantom Repository]: https://www.paulfioravanti.com/blog/your-code-episode-one/
